@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { MenuItem } from './interfaces';
+import { MenuItem } from './menu.interfaces';
 @Component({
   selector: 'app-menu',
   templateUrl: './menu.component.html',

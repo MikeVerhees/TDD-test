@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "snackapp-8b67d": {
+      "hosting": {
+        "testApp": [
+          "snackapp-8b67d"
+        ]
+      }
+    }
+  }
+}
